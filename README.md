@@ -8,14 +8,16 @@ This project was made as a way to help familiarize myself with Visual Studio Cod
 
 # How To Use
 
-To use the program, first download it. This should place a zipped version of the folder within your Downloads folder or similarly-named folder. Unzip the downloaded folder. Open your command-line interface. Navigate to the folder payday-2-experience-calculator directory. Run the following command followed by the level your profile currently is. (As an example, the number 78 was entered.)
+To use the program, first download it. This should place a zipped version of the folder within your Downloads folder or similarly-named folder. Unzip the downloaded folder. Open your command-line interface. Navigate to the folder payday-2-experience-calculator directory. Run the following command:
 
-	java Payday2ExperienceCalculator 78
+	java Payday2ExperienceCalculator
 
-The output will look like the following:
+You will then be prmopted to enter a number representing your level. Doing so provides you with the amount of experience needed to reach level one hundred. The following is an example of the output in which the number seventy-eight is entered:
 
 	Required Experience: 15,483,215
 	You have 33.65% of the required 23,336,413 experience.
+
+Entering "exit" will close the application.
 
 # Authors
 
